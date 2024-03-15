@@ -1,0 +1,37 @@
+[
+    {
+      "id": 1,
+      "Name": "Andrew Clark",
+      "img": "https://react.dev/_next/image?url=%2Fimages%2Fteam%2Facdlite.jpg&w=1920&q=75",
+      "Description": "Andrew got started with web development by making sites with WordPress, and eventually tricked himself into doing JavaScript. His favorite pastime is karaoke. Andrew is either a Disney villain or a Disney princess, depending on the day."
+      
+    },
+    {
+        "id": 2,
+        "Name": "Andrey",
+        "img":"https://react.dev/_next/image?url=%2Fimages%2Fteam%2Fjoe.jpg&w=1920&q=75",
+        "Description": "Andrey started his career as a designer and then gradually transitioned into web development. After joining the React Data team at Meta he worked on adding an incremental JavaScript compiler to Relay, and then later on, worked on removing the same compiler from Relay. Outside of work, Andrey likes to play music and engage in various sports."
+    },
+    {
+        "id": 3,
+      "Name": "Dan Abramov",
+      "img":"https://react.dev/_next/image?url=%2Fimages%2Fteam%2Fjasonbonta.jpg&w=1920&q=75",
+      "Description": "Dan got into programming after he accidentally discovered Visual Basic inside Microsoft PowerPoint. He has found his true calling in turning Sebastian’s tweets into long-form blog posts. Dan occasionally wins at Fortnite by hiding in a bush until the game ends."},
+    {
+        "id": 4,
+      "Name": "Eli White",
+      "img":"https://react.dev/_next/image?url=%2Fimages%2Fteam%2Feli-white.jpg&w=1920&q=75",
+      "Description": "Eli got into programming after he got suspended from middle school for hacking. He has been working on React and React Native since 2017. He enjoys eating treats, especially ice cream and apple pie. You can find Eli trying quirky activities like parkour, indoor skydiving, and aerial silks."},
+    {
+        "id": 5,
+      "Name": "Jason Bonta",
+      "img":"https://react.dev/_next/image?url=%2Fimages%2Fteam%2Fgaearon.jpg&w=1920&q=75",
+      "Description": "Jason likes having large volumes of Amazon packages delivered to the office so that he can build forts. Despite literally walling himself off from his team at times and not understanding how for-of loops work, we appreciate him for the unique qualities he brings to his work."},
+    {
+        "id": 6,
+      "Name": "Joe",
+      "img":"https://react.dev/_next/image?url=%2Fimages%2Fteam%2Fandrey-lunyov.jpg&w=1920&q=75",
+      "Description": "Joe was planning to major in math and philosophy but got into computer science after writing physics simulations in Matlab. Prior to React, he worked on Relay, RSocket.js, and the Skip programming language. While he’s not building some sort of reactive system he enjoys running, studying Japanese, and spending time with his family."}
+    
+  ]
+  
