@@ -3,25 +3,13 @@ import Title from '../components/Title'
 import Subtitle from '../components/Subtitle'
 import Footer from '../components/Footer'
 import data from "./data.json"
-import { useState,useEffect } from 'react'
-import axios from "axios"
-import Card from '../components/Card' 
+
 
  const About = () => {
 
 
   
-    // const [data, setData] = useState([]);
-  
-    // useEffect(() => {
-  
-
-      
-    //   axios.get("/data.json").then((res) => {
-  
-    //     setData(res.data.data);
-    //   });
-    // }, []);
+    
 
 
 
