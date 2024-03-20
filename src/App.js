@@ -1,6 +1,6 @@
 
 import './App.css';
-import { BrowserRouter, Routes, Route } from "react-router-dom";
+import { HashRouter, Routes, Route } from "react-router-dom";
 import Layout from "./pages/Layout";
 import Home from "./pages/Home";
 
@@ -24,7 +24,7 @@ function App() {
          
 
 
-         <BRouter>
+         <HashRouter>
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Index />} />
@@ -38,7 +38,7 @@ function App() {
           
         </Route>
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
          
   
      
