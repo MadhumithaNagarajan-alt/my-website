@@ -22,7 +22,7 @@ You are not required to use JSX, but JSX makes it easier to write React applicat
 
 <Card  cardHEader='JSX' cardText='const myElement = <h1>I Love JSX!</h1>;'/>
         
-        <Footer />
+     
         </div>
   )
 }

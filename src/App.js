@@ -10,6 +10,7 @@ import Index from './pages/Index';
 import Hooks from './pages/Hooks';
 import Router from './pages/Router';
 import Jsx from './pages/Jsx';
+import Footer from './components/Footer';
 
 
 
@@ -40,7 +41,7 @@ function App() {
       </Routes>
     </HashRouter>
          
-  
+  <Footer />
      
    
     </div>

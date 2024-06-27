@@ -21,7 +21,7 @@
 Please report any issues you encounter while upgrading to React 18.</p>
 
 <p>React allows us to create reusable UI components. Start learning React now . Learning by Examples. Our "Show React" tool makes it easy to demonstrate React.</p>
-<Footer />
+
              </div>
            )
          }

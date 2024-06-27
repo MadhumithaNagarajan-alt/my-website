@@ -18,7 +18,7 @@ It sets up your development environment so that you can use the latest JavaScrip
   
   
 </div>
-<Footer />
+
     </div>
   )
 }

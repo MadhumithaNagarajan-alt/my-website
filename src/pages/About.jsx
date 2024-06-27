@@ -61,7 +61,7 @@ We typically have a number of projects being worked on at any time, ranging from
    
    
    
-   <Footer />
+   
     </div>
    
   )

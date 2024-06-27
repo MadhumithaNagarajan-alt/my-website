@@ -1,4 +1,8 @@
 import { Outlet, NavLink } from "react-router-dom";
+import { ImHome3 } from "react-icons/im";
+import { IoLogoReact } from "react-icons/io5";
+import { IoCall } from "react-icons/io5";
+import { FcAbout } from "react-icons/fc";
 
 
 const Layout = () => {
@@ -12,7 +16,7 @@ const Layout = () => {
               isActive ? "nav-item active" : "nav-item"
             }
           >
-           <li> Home</li>
+            <ImHome3 size={18} color='#FFFFFF' /> Home
 </NavLink>  {" "}
 
 
@@ -24,7 +28,7 @@ const Layout = () => {
               isActive ? "nav-item active" : "nav-item"
             }
           >
-           <li> React Hooks</li>
+          <IoLogoReact size={18} color='#FFFFFF'/> React Hooks
           </NavLink>{" "}
         
           <NavLink
@@ -33,7 +37,7 @@ const Layout = () => {
               isActive ? "nav-item active" : "nav-item"
             }
           >
-           <li>React Router</li>
+          <IoLogoReact size={18} color='#FFFFFF'/> React Router
           </NavLink>{" "}
 
           <NavLink
@@ -42,7 +46,7 @@ const Layout = () => {
               isActive ? "nav-item active" : "nav-item"
             }
           >
-           <li> React JSX</li>
+          <IoLogoReact size={18} color='#FFFFFF'/>  React JSX
           </NavLink>{" "}
 
 
@@ -57,7 +61,7 @@ const Layout = () => {
               isActive ? "nav-item active" : "nav-item"
             }
           >
-           <li> About Us</li>
+          <FcAbout size={18} color='#FFFFFF' /> About Us
           </NavLink>{" "}
           <NavLink
             to={`/contact/`}
@@ -65,7 +69,7 @@ const Layout = () => {
               isActive ? "nav-item active" : "nav-item"
             }
           >
-            <li>Contact US</li>
+         <IoCall size={18} color='#FFFFFF' /> Contact US
           </NavLink>{" "}
           
           

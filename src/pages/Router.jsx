@@ -34,7 +34,7 @@ Setting the path to  will act as a catch-all for any undefined URLs This is grea
 <p>Here is the example for router</p>
 <br></br>
 <img src={MyCode} alt='MyCode' style={{width: "100%", height: "400px"}} />
-<Footer />
+
 
     </div>
   )

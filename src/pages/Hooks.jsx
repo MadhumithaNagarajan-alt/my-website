@@ -110,7 +110,7 @@ function Component5() {
       </>
     );
   }' />
-<Footer />
+
     </div>
   )
 }

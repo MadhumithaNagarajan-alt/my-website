@@ -39,7 +39,7 @@ import Footer from '../components/Footer';
     
     
     </div>
-    <Footer />
+    
     </div>
 
   )
